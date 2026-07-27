@@ -1,0 +1,27 @@
+2026-07-27 15:06:46 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:06:46 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:06:46 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:06:46 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:09:19 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:09:19 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:09:19 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:09:19 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:12:45 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:12:45 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:12:45 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:12:45 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:16:42 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:16:42 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:16:42 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:16:42 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:19:05 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:19:05 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:19:05 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:19:05 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:28:01 [[32minfo[39m]: 🚀 TrustFundX API running on http://localhost:4000
+2026-07-27 15:28:01 [[32minfo[39m]: 📚 Swagger docs at http://localhost:4000/api-docs
+2026-07-27 15:28:01 [[32minfo[39m]: 🔗 Algorand Network: testnet
+2026-07-27 15:28:01 [[32minfo[39m]: 🌍 Environment: undefined
+2026-07-27 15:30:41 [[31merror[39m]: OPTIONS /api/auth/register - 500 - Not allowed by CORS
+2026-07-27 15:30:43 [[31merror[39m]: OPTIONS /api/auth/register - 500 - Not allowed by CORS
+2026-07-27 15:30:55 [[31merror[39m]: OPTIONS /api/auth/register - 500 - Not allowed by CORS
