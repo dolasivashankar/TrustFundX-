@@ -95,11 +95,6 @@ npm run dev
 
 ---
 
-## 🛡️ Default Admin Account
-
-- **Email**: `admin@trustfundx.com`
-- **Username**: `admin`
-- **Password**: `TrustFundX@2026`
 
 ---
 
