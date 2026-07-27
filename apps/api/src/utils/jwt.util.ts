@@ -1,5 +1,5 @@
 import jwt from 'jsonwebtoken';
-import { UserRole } from '@prisma/client';
+import { UserRole } from '@trustfundx/database';
 
 export interface JwtPayload {
   userId: string;
